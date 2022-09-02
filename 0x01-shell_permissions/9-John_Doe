@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod 753 hello >> 9-John_Doe
-root@72bab3b6b869:/alx-system_engineering-devops/0x01-shell_permissions# echo chmod 753 hello
+chmod 753 hello
